@@ -109,16 +109,6 @@ you can also watch the following videos:
 https://www.youtube.com/watch?v=EcFtefHEEII
 https://www.youtube.com/watch?v=tHX3MLzwF6Q
 
-
-
-----------------------------------
-  OpenCV installation in Ubuntu
-----------------------------------
-
-$ chmod +x opencv.sh
-$ ./opencv.sh
-
-
 ---------------------------------
   Boost Installation in Windows
 ---------------------------------
@@ -169,6 +159,15 @@ Then you are ready to use the boost library
 For more information about the installation procedure of the boost library visit the following webpage:
 
 http://www.boost.org/doc/libs/1_60_0/more/getting_started/windows.html
+
+
+----------------------------------
+  OpenCV installation in Ubuntu
+----------------------------------
+
+$ chmod +x opencv.sh
+
+$ ./opencv.sh
 
 
 --------------------------------
