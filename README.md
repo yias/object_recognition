@@ -1,5 +1,5 @@
 # object_recognition
-This the object recognition project for the Robotic Practicals course
+This is the object recognition project for the Robotic Practicals course
 The "Object_Recognition" program reads captures pictures from a camera and classifies the pictures according to the user's preferencies. 
 It has been created by the Learning Algorithms and Systems Laboratory (LASA) of EPFL for the purposes of the "Robotic Practicals" course.
 
